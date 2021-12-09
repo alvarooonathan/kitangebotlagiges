@@ -113,6 +113,7 @@ webpmux -version
 - Cek [disini](https://github.com/Xinz-Team/XinzBot/blob/main/message/help.js)
 
 # Thanks to
+* [`Nathan`](https://github.com/alvarooonathan)
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 * [`Xinz-Team`](https://github.com/Xinz-Team)
 * [`Nurutomo`](https://github.com/Nurutomo)
