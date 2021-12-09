@@ -1,5 +1,5 @@
 exports.menu = (prefix, i) => {
-    return `*INI WM AQULZZ*
+    return `*INI WM NATHAN*
 `
 }
 
@@ -49,6 +49,7 @@ exports.newMenu = (ucapan, ownerName, botName, prefix, pendaftar, runtime, pushn
 ├≽ *Xinz-Team*
 ├≽ *Aqulzz*
 ├≽ *Nafizz*
+├≽ *Nathan*
 ├≽ *Y-DhyZx*
 ├≽ *Ramlan ID*
 ├≽ *X-MrG3P5*
